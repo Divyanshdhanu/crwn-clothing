@@ -32,7 +32,6 @@ export default class Directory extends Component {
                      imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
                      size: 'large',
                      id: 4,
-                     size : 'large',
                      linkUrl: 'shop/womens'
                  },
                  {
